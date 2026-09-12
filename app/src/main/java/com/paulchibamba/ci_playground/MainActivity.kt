@@ -24,6 +24,8 @@ class MainActivity : ComponentActivity() {
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )
+
+                    val x: Int = "nope"
                 }
             }
         }
